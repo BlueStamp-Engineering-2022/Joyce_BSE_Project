@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Joyce | Gunn | Building Stuff | 9
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://photos.google.com/share/AF1QipPfXXrUy84d3RworMUQWytms_AhB1PhceeMV76HeIOtnnEISkmCd99oGmAbPtCnKQ/photo/AF1QipO9zr8zZqW-oZDXdmuRms0kIPaHzx-nTOBoL6OE?key=blBtb2RCb01sX1hWc04xS3NMREJ0d3FUOWY2eWxB)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -23,10 +23,7 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
 # Starter Project
-My starter project was the TV Be Gone project. The purpose of this project is to build something that can wirelessly turn off a TV. 
+My starter project was the TV Be Gone project. The purpose of this project is to build something that can wirelessly turn off a TV. The TV Be Gone Project is about putting certain parts, wires and sensors together. At the bottom, the black button is the on-off button. Then next to it, the 3mm LED blinks once you turn it on, to tell you that it's on. The 10K resistor protects the LEDs from receiving too much voltage and current. The R1, R3 resistors help limit the flow of electricity to provide a specific voltage. The 220uF electrolytic capacitor and the C2 capacitor and the C1 is a ceramic capacitor helps to reduce voltage pulsation. The resonator controls the whole system. The transistors on top help and protect the LEDs and send signals to the TV. They prevent the LEDs from receiving too much voltage and current. Finally, the LEDs on top send an infrared signal to the TV to turn it off. 
 
-
-
-setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=hRQQzCJszn4&t=6s){:target="_blank" rel="noopener"}
