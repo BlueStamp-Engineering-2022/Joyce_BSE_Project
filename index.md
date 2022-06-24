@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Joyce | Gunn | Building Stuff | 9
+| Joyce | Gunn | Building Objects | 9
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXiQj1MWQhIhCNVRcwi0w5HXhJ392SdoWkd8fB8ecZwu0IvRmG5ZyONZIaklXKNpEhq_cw7kPQk2gWz8mrEpeYjM4v5zCyVF43M2UlpFJfUI4sHNMkyZ-fZOqBTtTlsmmWLaBDUVA0RcpV7d4Hgm-77=s1528-no?authuser=0)
   
